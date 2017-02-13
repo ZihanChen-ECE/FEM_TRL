@@ -1,0 +1,489 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2016.3.18)  25 APR 2016 13:41
+entering extended mode
+**journal_report.tex
+("C:\Users\Zihan\Google Drive\MAT1062\project\journal_report.tex"
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ieeetran\IEEEtran.cls"
+Document Class: IEEEtran 2007/03/05 V1.7a by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 366.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen104
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen105
+\CLASSINFOnormalsizeunitybaselineskip=\dimen106
+\IEEEnormaljot=\dimen107
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+\IEEEilabelindentA=\dimen108
+\IEEEilabelindentB=\dimen109
+\IEEEilabelindent=\dimen110
+\IEEEelabelindent=\dimen111
+\IEEEdlabelindent=\dimen112
+\IEEElabelindent=\dimen113
+\IEEEiednormlabelsep=\dimen114
+\IEEEiedmathlabelsep=\dimen115
+\IEEEiedtopsep=\skip41
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@IEEEsubequation=\count85
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count86
+\c@table=\count87
+\@IEEEeqnnumcols=\count88
+\@IEEEeqncolcnt=\count89
+\@IEEEtmpitemindent=\dimen116
+\c@IEEEbiography=\count90
+\@IEEEtranrubishbin=\box26
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen117
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen118
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen119
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip10
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks16
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks17
+\eqnshift@=\dimen120
+\alignsep@=\dimen121
+\tagshift@=\dimen122
+\tagwidth@=\dimen123
+\totwidth@=\dimen124
+\lineht@=\dimen125
+\@envbody=\toks18
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count103
+))
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\indentfirst.sty"
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count104
+\Gm@cntv=\count105
+\c@Gm@tempcnt=\count106
+\Gm@bindingoffset=\dimen128
+\Gm@wd@mp=\dimen129
+\Gm@odd@mp=\dimen130
+\Gm@even@mp=\dimen131
+\Gm@layoutwidth=\dimen132
+\Gm@layoutheight=\dimen133
+\Gm@layouthoffset=\dimen134
+\Gm@layoutvoffset=\dimen135
+\Gm@dimlist=\toks21
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Users\Zihan\Google Drive\MAT1062\project\journal_report.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 362.
+LaTeX Font Info:    ... okay on input line 362.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 362.
+LaTeX Font Info:    ... okay on input line 362.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 362.
+LaTeX Font Info:    ... okay on input line 362.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 362.
+LaTeX Font Info:    ... okay on input line 362.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 362.
+LaTeX Font Info:    ... okay on input line 362.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 362.
+LaTeX Font Info:    ... okay on input line 362.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count107
+\scratchdimen=\dimen136
+\scratchbox=\box29
+\nofMPsegments=\count108
+\nofMParguments=\count109
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count110
+\MPscratchDim=\dimen137
+\MPnumerator=\count111
+\everyMPtoPDFconversion=\toks23
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
+* v-part:(T,H,B)=(71.13188pt, 652.70622pt, 71.13188pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=500.484pt
+* \textheight=652.70622pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-31.2056pt
+* \headheight=12.0pt
+* \headsep=18.06749pt
+* \topskip=12.0pt
+* \footskip=28.90755pt
+* \marginparwidth=20.0pt
+* \marginparsep=10.0pt
+* \columnsep=12.0pt
+* \skip\footins=10.79993pt plus 4.79993pt minus 2.39996pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+[1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+]
+<FEMelement.jpg, id=11, 564.60938pt x 214.55156pt>
+File: FEMelement.jpg Graphic file (type jpg)
+ <use FEMelement.jpg>
+Package pdftex.def Info: FEMelement.jpg used on input line 568.
+(pdftex.def)             Requested size: 244.24199pt x 92.8119pt.
+
+[2 <C:/Users/Zihan/Google Drive/MAT1062/project/FEMelement.jpg>]
+Overfull \hbox (2.09924pt too wide) detected at line 597
+\OML/cmm/m/it/10 F[] \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10 f\OML/cmm/m/it/10 []\O
+MS/cmsy/m/n/10 g[]f[] [][]f\OML/cmm/m/it/10 N[]\OMS/cmsy/m/n/10 gLf\OML/cmm/m/i
+t/10 N[]\OMS/cmsy/m/n/10 g[]\OML/cmm/m/it/10 d\OT1/cmr/m/n/10 
+\OMS/cmsy/m/n/10 f\OML/cmm/m/it/10 []\OMS/cmsy/m/n/10 g   [][] \OML/cmm/m/it/1
+0 f\OMS/cmsy/m/n/10 f\OML/cmm/m/it/10 N[]\OMS/cmsy/m/n/10 g\OML/cmm/m/it/10 d\O
+T1/cmr/m/n/10 
+\OMS/cmsy/m/n/10 g
+ []
+
+[3] <1Dlinear.jpg, id=24, 562.1pt x 421.575pt>
+File: 1Dlinear.jpg Graphic file (type jpg)
+ <use 1Dlinear.jpg>
+Package pdftex.def Info: 1Dlinear.jpg used on input line 670.
+(pdftex.def)             Requested size: 244.24199pt x 183.1778pt.
+
+<1dLinearError.jpg, id=25, 562.1pt x 421.575pt>
+File: 1dLinearError.jpg Graphic file (type jpg)
+ <use 1dLinearError.jpg>
+Package pdftex.def Info: 1dLinearError.jpg used on input line 678.
+(pdftex.def)             Requested size: 244.24199pt x 183.1778pt.
+
+<1DQuadraticError.jpg, id=26, 562.1pt x 421.575pt>
+File: 1DQuadraticError.jpg Graphic file (type jpg)
+ <use 1DQuadraticError.jpg>
+Package pdftex.def Info: 1DQuadraticError.jpg used on input line 703.
+(pdftex.def)             Requested size: 244.24199pt x 183.1778pt.
+
+[4 <C:/Users/Zihan/Google Drive/MAT1062/project/1Dlinear.jpg> <C:/Users/Zihan/G
+oogle Drive/MAT1062/project/1dLinearError.jpg>]
+<1DCubicError.jpg, id=31, 562.1pt x 421.575pt>
+File: 1DCubicError.jpg Graphic file (type jpg)
+ <use 1DCubicError.jpg>
+Package pdftex.def Info: 1DCubicError.jpg used on input line 710.
+(pdftex.def)             Requested size: 244.24199pt x 183.1778pt.
+
+Overfull \hbox (5.26279pt too wide) in paragraph at lines 718--726
+ [] 
+ []
+
+
+Overfull \hbox (5.26279pt too wide) in paragraph at lines 733--741
+ [] 
+ []
+
+
+Overfull \hbox (5.26279pt too wide) in paragraph at lines 747--755
+ [] 
+ []
+
+<2DPoissonFEM.jpg, id=32, 562.1pt x 421.575pt>
+File: 2DPoissonFEM.jpg Graphic file (type jpg)
+ <use 2DPoissonFEM.jpg>
+Package pdftex.def Info: 2DPoissonFEM.jpg used on input line 793.
+(pdftex.def)             Requested size: 244.24199pt x 183.1778pt.
+ [5 <C:/Users/Zihan/Google Drive/MAT1062/project/1DQuadraticError.jpg> <C:/User
+s/Zihan/Google Drive/MAT1062/project/1DCubicError.jpg>]
+<2DPoissonAnalytical.jpg, id=38, 562.1pt x 421.575pt>
+File: 2DPoissonAnalytical.jpg Graphic file (type jpg)
+
+<use 2DPoissonAnalytical.jpg>
+Package pdftex.def Info: 2DPoissonAnalytical.jpg used on input line 799.
+(pdftex.def)             Requested size: 244.24199pt x 183.1778pt.
+
+<Microstrip_fieldlines.jpg, id=39, 850.67813pt x 300.3722pt>
+File: Microstrip_fieldlines.jpg Graphic file (type jpg)
+
+<use Microstrip_fieldlines.jpg>
+Package pdftex.def Info: Microstrip_fieldlines.jpg used on input line 811.
+(pdftex.def)             Requested size: 195.39433pt x 68.99248pt.
+
+<Microstrip_geometry.jpg, id=40, 994.46532pt x 338.01282pt>
+File: Microstrip_geometry.jpg Graphic file (type jpg)
+
+<use Microstrip_geometry.jpg>
+Package pdftex.def Info: Microstrip_geometry.jpg used on input line 823.
+(pdftex.def)             Requested size: 195.39433pt x 66.40994pt.
+
+<MicrostripeMesh.jpg, id=41, 657.95813pt x 611.28375pt>
+File: MicrostripeMesh.jpg Graphic file (type jpg)
+
+<use MicrostripeMesh.jpg>
+Package pdftex.def Info: MicrostripeMesh.jpg used on input line 830.
+(pdftex.def)             Requested size: 195.39433pt x 181.53038pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 837--838
+
+ []
+
+[6 <C:/Users/Zihan/Google Drive/MAT1062/project/2DPoissonFEM.jpg> <C:/Users/Zih
+an/Google Drive/MAT1062/project/2DPoissonAnalytical.jpg> <C:/Users/Zihan/Google
+ Drive/MAT1062/project/Microstrip_fieldlines.jpg> <C:/Users/Zihan/Google Drive/
+MAT1062/project/Microstrip_geometry.jpg> <C:/Users/Zihan/Google Drive/MAT1062/p
+roject/MicrostripeMesh.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 839--840
+
+ []
+
+<Microstrip_solved.jpg, id=45, 421.575pt x 316.18124pt>
+File: Microstrip_solved.jpg Graphic file (type jpg)
+
+<use Microstrip_solved.jpg>
+Package pdftex.def Info: Microstrip_solved.jpg used on input line 844.
+(pdftex.def)             Requested size: 244.24199pt x 183.18262pt.
+
+<MicrostripComsol.png, id=46, 643.80525pt x 405.31425pt>
+File: MicrostripComsol.png Graphic file (type png)
+
+<use MicrostripComsol.png>
+Package pdftex.def Info: MicrostripComsol.png used on input line 854.
+(pdftex.def)             Requested size: 244.24199pt x 153.76126pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<TLmodel.jpg, id=47, 551.05875pt x 191.9672pt>
+File: TLmodel.jpg Graphic file (type jpg)
+ <use TLmodel.jpg>
+Package pdftex.def Info: TLmodel.jpg used on input line 872.
+(pdftex.def)             Requested size: 244.24199pt x 85.08388pt.
+
+<TLMesh.jpg, id=48, 770.88pt x 530.73282pt>
+File: TLMesh.jpg Graphic file (type jpg)
+ <use TLMesh.jpg>
+Package pdftex.def Info: TLMesh.jpg used on input line 879.
+(pdftex.def)             Requested size: 195.39433pt x 134.5212pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[7 <C:/Users/Zihan/Google Drive/MAT1062/project/Microstrip_solved.jpg> <C:/User
+s/Zihan/Google Drive/MAT1062/project/MicrostripComsol.png> <C:/Users/Zihan/Goog
+le Drive/MAT1062/project/TLmodel.jpg>]
+<10MHz2.jpg, id=53, 721.69624pt x 473.77pt>
+File: 10MHz2.jpg Graphic file (type jpg)
+ <use 10MHz2.jpg>
+Package pdftex.def Info: 10MHz2.jpg used on input line 888.
+(pdftex.def)             Requested size: 195.39433pt x 128.2666pt.
+
+<10MHzCOMSOL2.png, id=54, 645.00975pt x 408.3255pt>
+File: 10MHzCOMSOL2.png Graphic file (type png)
+ <use 10MHzCOMSOL2.png>
+Package pdftex.def Info: 10MHzCOMSOL2.png used on input line 895.
+(pdftex.def)             Requested size: 195.39433pt x 123.69485pt.
+
+<10MHz4.jpg, id=55, 747.79375pt x 484.81125pt>
+File: 10MHz4.jpg Graphic file (type jpg)
+ <use 10MHz4.jpg>
+Package pdftex.def Info: 10MHz4.jpg used on input line 903.
+(pdftex.def)             Requested size: 195.39433pt x 126.67674pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<10MHzCOMSOL4.png, id=56, 648.62325pt x 408.3255pt>
+File: 10MHzCOMSOL4.png Graphic file (type png)
+ <use 10MHzCOMSOL4.png>
+Package pdftex.def Info: 10MHzCOMSOL4.png used on input line 910.
+(pdftex.def)             Requested size: 219.8163pt x 138.38022pt.
+
+[8 <C:/Users/Zihan/Google Drive/MAT1062/project/TLMesh.jpg> <C:/Users/Zihan/Goo
+gle Drive/MAT1062/project/10MHz2.jpg> <C:/Users/Zihan/Google Drive/MAT1062/proj
+ect/10MHzCOMSOL2.png> <C:/Users/Zihan/Google Drive/MAT1062/project/10MHz4.jpg> 
+<C:/Users/Zihan/Google Drive/MAT1062/project/10MHzCOMSOL4.png>] [9
+
+]
+("C:\Users\Zihan\Google Drive\MAT1062\project\journal_report.aux") ) 
+Here is how much of TeX's memory you used:
+ 2998 strings out of 494049
+ 44693 string characters out of 3146065
+ 115943 words of memory out of 3000000
+ 6254 multiletter control sequences out of 15000+200000
+ 42378 words of font info for 78 fonts, out of 3000000 for 9000
+ 718 hyphenation exceptions out of 8191
+ 27i,15n,20p,1415b,263s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program
+ Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Program Files (x86)/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files (x86)/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmsy5.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmsy6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmsy7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/time
+s/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.p
+fb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on journal_report.pdf (9 pages, 2089865 bytes).
+PDF statistics:
+ 111 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+
